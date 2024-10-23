@@ -1,0 +1,2 @@
+Esta es la linea 1 y se esta leyendo, aún contiuna la primera liena
+Ahora se encuentra en la segunda linea del archivo y se encuentra leyendo esta segunda linea, la cual es mucho mas larga que la linea anterior.
